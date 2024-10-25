@@ -1,0 +1,8 @@
+o projeto apresenta pelo sistema os intens pedidos
+
+para utilizar pode-se colocar o arquivo .txt da conversa dentro da pasta /data/raw com o nome whatsapp_chat.txt
+OU
+mudar o nome do Path na main.py para o novo nome do arquivo
+
+para utilizar é só rodar o arquivo main.py
+
